@@ -543,5 +543,5 @@ When changing stored data structures, maintain backward compatibility through st
 
 
 
-
-
+License
+MIT, see LICENSE.
